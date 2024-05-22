@@ -1,5 +1,5 @@
 def boasVindas(nome, idade):
-    print("ola {}, nem parece que voce tem {} anos".format(nome, idade))
+    print("ola {}, nem parece que voce tem {} anos")
 
 def ePar(numero):
     if (numero%2) == 0:
@@ -12,3 +12,5 @@ if __name__ == "__main__":
     #idade = int(input("qual sua idade? "))
     #boasVindas(nome, idade)
     ePar(int(input("digite o número: ")))
+    #ePar(numero
+    
